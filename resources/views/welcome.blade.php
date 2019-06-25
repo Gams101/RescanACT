@@ -105,7 +105,7 @@
                         <p class="text-muted text-left pl-5 pt-3">Rescan supports:<strong class="pl-5">Windows 10</strong></p>
                     </div>
 
-                </div> <!-- CARD 1 -->
+                </div> <!-- CARD 1 END-->
 
                 <br>
                 <br>
@@ -223,9 +223,17 @@
                         </div>
 
                         <div class="row">
-                            <div class="col-xs-12 col-md-12">
+                            <div class="col-xs-3 col-md-3">
+
+                            </div>
+                            <div class="col-xs-6 col-md-6">
                                 <img class="p-5" src="/img/completeTask/completeTask.png" alt="" style="width: 100%;height: 100%;">
                             </div>
+                            <div class="col-xs-3 col-md-3">
+
+                            </div>
+
+
                         </div>
 
                         <div class="row">
@@ -280,7 +288,6 @@
                             <div class="col-xs-12 col-md-12">
                                 <div class="justify-content-center">
                                     <h1 class="card-title font-weight-bold display-5"><strong>Easy to navigate<br>menu system</strong></h1>
-
                                 </div>
                             </div>
 
@@ -301,9 +308,17 @@
                         </div>
 
                         <div class="row">
+                            <!--
+                            <div class="col-xs-1 col-md-1">
+
+                            </div>-->
                             <div class="col-xs-12 col-md-12">
                                 <img class="p-5" src="/img/appMenu/appMenu.png" alt="" style="width:100%;height: 100%;">
                             </div>
+                            <!--
+                            <div class="col-xs-1 col-md-1">
+
+                            </div> -->
                         </div>
 
                         <div class="row">

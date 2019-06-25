@@ -53,7 +53,7 @@
         <section style="background-color: #039be5;"> <!-- Content header -->
             <div class="container" >
                 <div class="row justify-content-center">
-                        <div class="col-xs-12 col-md-4" align="left">
+                        <div class="col-xs-12 col-md-4 pt-3" align="left">
                             <h1 class="display-5 font-weight-bolder" style="color: white;padding-top:10%;padding-left:10%;padding-right:10%;">Rescan ACT<br> provides an ease<br>on digital literacy</h1>
                             <div style="padding-left: 10%;padding-bottom: 10%;padding-top: 5%;">
                                 <a class="btn btn-outline-light font-weight-bold" style="border-radius: 8px;" href="#" download="">Download <i class="fa fa-cloud-download"></i></a>
@@ -116,7 +116,7 @@
 
                         <h1 class="card-title font-weight-bold pt-5 display-5">An efficient digital<br>learning environment platform</h1>
 
-                        <div class="row">
+                        <div class="row justify-content-center pr-5">
 
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
@@ -538,7 +538,6 @@
 
             </div>
             <!-- Footer Elements -->
-
             <!-- Copyright -->
             <div class="footer-copyright text-center py-3">© 2019 Copyright:
                 <a href="https://www.rescan-act.com"> RescanACT</a>

@@ -102,7 +102,7 @@
                     </div>
 
                     <div class="card-footer" style="padding-left: 7%;background-color: #eceff1;"> <!-- CARD FOOTER-->
-                        <p class="text-muted text-left pl-5 pt-3">Rescan supports:<strong class="pl-5">Windows 10</strong></p>
+                        <p class="text-muted text-left pl-5 pr-5 pt-3">Rescan supports:<strong class="pl-5">Windows 10</strong></p>
                     </div>
 
                 </div> <!-- CARD 1 END-->
@@ -116,7 +116,7 @@
 
                         <h1 class="card-title font-weight-bold pt-5 display-5">An efficient digital<br>learning environment platform</h1>
 
-                        <div class="row justify-content-center pr-5">
+                        <div class="row">
 
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">

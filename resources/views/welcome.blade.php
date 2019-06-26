@@ -119,7 +119,7 @@
                         <div class="row justify-content-center">
 
                             <div class="col-xs-12 col-md-4">
-                                <div class="pt-5">
+                                <div class="pt-5 pl-5 pr-5">
                                     <img class="pb-3" src="/img/keyboard.png" alt="" style="height: 150px;">
                                     <h5 class="font-weight-bold card-title text-left">Start with Keyboard Tutorial</h5>
                                     <p class="pt-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
@@ -127,7 +127,7 @@
                             </div>
 
                             <div class="col-xs-12 col-md-4">
-                                <div class="pt-5">
+                                <div class="pt-5 pl-5 pr-5">
                                     <img class="pb-3" src="/img/office.png" alt="" style="height: 150px;">
                                     <h5 class="font-weight-bold card-title text-left">Get around with Office Applications </h5>
                                     <p class="pb-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
@@ -135,7 +135,7 @@
                             </div>
 
                             <div class="col-xs-12 col-md-4">
-                                <div class="pt-5">
+                                <div class="pt-5 pl-5 pr-5">
                                     <img class="pb-3" src="/img/browser.png" alt="" style="height: 150px;">
                                     <h5 class="font-weight-bold card-title text-left">Browser Navigation</h5>
                                     <p class="pb-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
@@ -184,9 +184,9 @@
                     </div>
 
                     <div class="card-footer" style="padding-left: 7%;background-color: #eceff1;">
-                        <p class="text-left pl-5 pt-3"><strong class="">Rescan Assistive Computer Technology</strong></p>
-                        <p class="text-muted text-left pl-5">A digital learning environment for everyone.</p>
-                        <p class="text-left pl-5"><a href="#"><strong>Read more</strong></a></p>
+                        <p class="text-left pl-5 pr-5 pt-3"><strong class="">Rescan Assistive Computer Technology</strong></p>
+                        <p class="text-muted text-left pl-5 pr-5">A digital learning environment for everyone.</p>
+                        <p class="text-left pl-5 pr-5"><a href="#"><strong>Read more</strong></a></p>
                     </div>
 
                 </div>  <!-- END OF 2ND CARD -->
@@ -200,7 +200,7 @@
 
                         <div class="row pt-5">
 
-                            <div class="col-xs-12 col-md-12">
+                            <div class="col-xs-12 col-md-12 pl-5 pr-5">
                                 <div class="justify-content-center">
                                     <h1 class="card-title font-weight-bold display-5"><strong>Complete tasks<br>to enhance digital literacy</strong></h1>
                                 </div>
@@ -285,7 +285,7 @@
 
                         <div class="row pt-5">
 
-                            <div class="col-xs-12 col-md-12">
+                            <div class="col-xs-12 col-md-12 pl-5 pr-5">
                                 <div class="justify-content-center">
                                     <h1 class="card-title font-weight-bold display-5"><strong>Easy to navigate<br>menu system</strong></h1>
                                 </div>
@@ -367,9 +367,9 @@
 
                         <div class="row pt-5">
 
-                            <div class="col-xs-12 col-md-12">
+                            <div class="col-xs-12 col-md-12 pl-5 pr-5">
                                 <div class="justify-content-center">
-                                    <h1 class="card-title font-weight-bold display-5"><strong>News and events</strong></h1>
+                                    <h1 class="card-title font-weight-bold display-5"><strong>News and Events</strong></h1>
                                 </div>
                             </div>
 

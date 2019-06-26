@@ -78,22 +78,22 @@
 
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
-                                    <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
+                                    <h5 class="font-weight-bold card-title text-left">Build and enhance your keyboarding skills</h5>
+                                    <p class="card-text text-muted text-left">Rescan ACT provides a keyboard learning experience that offers fundamental ideas such as finger positioning and more.</p>
                                 </div>
                             </div>
 
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Ex mea amet conclusionemque, ad has oratio invidunt.</h5>
-                                    <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
+                                    <h5 class="font-weight-bold card-title text-left">Keep track of your progress and statistics</h5>
+                                    <p class="card-text text-muted text-left">Rescan ACT comes with a progress and an accuracy feature that tracks individual progress and accuracy on tasks.</p>
                                 </div>
                             </div>
 
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
-                                    <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
+                                    <h5 class="font-weight-bold card-title text-left">Multiple features for computer literacy</h5>
+                                    <p class="card-text text-muted text-left">Rescan ACT offers a different approach on providing computer literacy to its users from the basics of navigation and more.</p>
                                 </div>
                             </div>
 
@@ -121,7 +121,7 @@
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
                                     <img class="pb-3" src="/img/keyboard.png" alt="" style="height: 200px;">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
+                                    <h5 class="font-weight-bold card-title text-left">Start with Keyboard Tutorial</h5>
                                     <p class="pt-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
                                     <img class="pb-3" src="/img/office.png" alt="" style="height: 200px;">
-                                    <h5 class="font-weight-bold card-title text-left">Ex mea amet conclusionemque, ad has oratio invidunt.</h5>
+                                    <h5 class="font-weight-bold card-title text-left">Get around with Office Applications </h5>
                                     <p class="pb-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
@@ -137,7 +137,7 @@
                             <div class="col-xs-12 col-md-4">
                                 <div class="pt-5 pl-5 pr-5">
                                     <img class="pb-3" src="/img/browser.png" alt="" style="height: 200px;">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
+                                    <h5 class="font-weight-bold card-title text-left">Browser Navigation</h5>
                                     <p class="pb-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
@@ -433,7 +433,7 @@
                 <br>
                 <br>
 
-                <div class="card text-center" style="border-radius: 10px;"> <!-- START 5TH CARD -->
+                <div class="card text-center" style="border-radius: 10px;"> <!-- START 6TH CARD -->
                     <div class="card-body justify-content-center pb-5" style="padding-left: 7%;padding-right: 7%">
 
                         <div class="row pt-5">
@@ -456,30 +456,38 @@
 
                         <div class="row">
 
-                            <div class="col-xs-12 col-md-3">
+                            <div class="col-xs-12 col-md-6">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
+                                    <img src="/img/team_profile/baculio.png" style="height: 150px;" alt="">
+                                    <h5 class="mt-5 font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
                                     <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
 
-                            <div class="col-xs-12 col-md-3">
+                            <div class="col-xs-12 col-md-6">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Ex mea amet conclusionemque, ad has oratio invidunt.</h5>
+                                    <img src="/img/team_profile/sawitan.png" style="height: 150px;" alt="">
+                                    <h5 class="mt-5 font-weight-bold card-title text-left">Ex mea amet conclusionemque, ad has oratio invidunt.</h5>
                                     <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
 
-                            <div class="col-xs-12 col-md-3">
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-xs-12 col-md-6">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
+                                    <img src="/img/team_profile/casino.png" style="height: 150px;" alt="">
+                                    <h5 class="mt-5 font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
                                     <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
 
-                            <div class="col-xs-12 col-md-3">
+                            <div class="col-xs-12 col-md-6">
                                 <div class="pt-5 pl-5 pr-5">
-                                    <h5 class="font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
+                                    <img src="/img/team_profile/basallo.png" style="height: 150px;" alt="">
+                                    <h5 class="mt-5 font-weight-bold card-title text-left">Lorem ipsum dolor sit amet, omnis dicant impedit in vel.</h5>
                                     <p class="card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
@@ -489,14 +497,14 @@
                         <div class="row pt-5">
                             <div class="col-xs-12 col-md-12">
                                 <div class="justify-content-center">
-                                    <a class="btn btn-primary font-weight-bold" href="#"><strong>Get started</strong></a></p>
+                                    <a class="btn btn-primary font-weight-bold" href="#"><strong>Get in touch</strong></a></p>
                                 </div>
                             </div>
                         </div>
 
                     </div>
 
-                </div> <!-- END OF 5TH CARD-->
+                </div> <!-- END OF 6TH CARD-->
 
                 <br>
                 <br>

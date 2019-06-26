@@ -102,7 +102,7 @@
                     </div>
 
                     <div class="card-footer" style="padding-left: 7%;background-color: #eceff1;"> <!-- CARD FOOTER-->
-                        <p class="text-muted text-left pl-5 pr-5 pt-3">Rescan supports:<strong class="pl-5">Windows 10</strong></p>
+                        <p class="text-muted text-left pl-5 pr-5 pt-3">Rescan supports: <strong class="">Windows 10</strong></p>
                     </div>
 
                 </div> <!-- CARD 1 END-->
@@ -116,27 +116,27 @@
 
                         <h1 class="card-title font-weight-bold pt-5 display-5">An efficient digital<br>learning environment platform</h1>
 
-                        <div class="row">
+                        <div class="row justify-content-center">
 
                             <div class="col-xs-12 col-md-4">
-                                <div class="pt-5 pl-5 pr-5">
-                                    <img class="pb-3" src="/img/keyboard.png" alt="" style="height: 200px;">
+                                <div class="pt-5">
+                                    <img class="pb-3" src="/img/keyboard.png" alt="" style="height: 150px;">
                                     <h5 class="font-weight-bold card-title text-left">Start with Keyboard Tutorial</h5>
                                     <p class="pt-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
 
                             <div class="col-xs-12 col-md-4">
-                                <div class="pt-5 pl-5 pr-5">
-                                    <img class="pb-3" src="/img/office.png" alt="" style="height: 200px;">
+                                <div class="pt-5">
+                                    <img class="pb-3" src="/img/office.png" alt="" style="height: 150px;">
                                     <h5 class="font-weight-bold card-title text-left">Get around with Office Applications </h5>
                                     <p class="pb-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
                             </div>
 
                             <div class="col-xs-12 col-md-4">
-                                <div class="pt-5 pl-5 pr-5">
-                                    <img class="pb-3" src="/img/browser.png" alt="" style="height: 200px;">
+                                <div class="pt-5">
+                                    <img class="pb-3" src="/img/browser.png" alt="" style="height: 150px;">
                                     <h5 class="font-weight-bold card-title text-left">Browser Navigation</h5>
                                     <p class="pb-3 card-text text-muted text-left">Nam nibh facilisis ad, eleifend neglegentur mea ne, sea mollis reprimique no. Ubique tritani et vim, eirmod imperdiet consequat in nec. Possit tritani consequat ad per.</p>
                                 </div>
